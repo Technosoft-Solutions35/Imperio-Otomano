@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Imperio Otomano",
+    "slug": "imperio-otomano",
+    "owner": "raymoncrawfords-team",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/fondo_principal.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/images/fondo_principal.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0d0d1a"
+    },
+    "android": {
+      "package": "com.imperiootomano",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/fondo_principal.png",
+        "backgroundColor": "#0d0d1a"
+      }
+    },
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "e7df68e2-12fe-43d1-835e-848e30550efc"
+      }
+    }
+  }
+}
